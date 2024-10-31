@@ -23,3 +23,7 @@ npm install
 ```
 npm run dev
 ```
+
+## 프로젝트 설정
+
+- ✨ [Prettier, ESLint 적용하기](https://github.com/WritersPatent/FrontEnd/pull/1)
